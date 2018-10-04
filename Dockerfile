@@ -18,8 +18,8 @@ RUN apt-get update -y && \
 RUN pip install --upgrade pip
 RUN pip install --no-cache-dir cupy-cuda90 chainer
 
-#RUN pip install mecab-python
 RUN pip install nltk progressbar2
 
 #RUN pip install --upgrade tensorflow-gpu
 #RUN pip install keras
+#aiueo
